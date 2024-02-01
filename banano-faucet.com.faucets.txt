@@ -1,0 +1,15 @@
+$BAN FAUCET LIST
+
+NAME	FREQUENCY	LAST TRANSACTION	
+Pronoun Faucet	daily	0.25	58h ago
+Try Banano	2 hours	0.04	34h ago
+Banano Planet	2 hours	0.02	40h ago
+icanhaznano faucet	daily	0.04	15h ago
+NanSwap	daily	0.02	36h ago
+Free Banano Faucet	daily	0.05	38h ago
+MonkeyTalks	daily	0.06	56h ago
+Perry's Banano Faucet	daily	0.13	28h ago
+Barrel O' Bananos	daily	0.04	50h ago
+BananoFaucet	weekly	10.00	51h ago
+Prussia's Faucet	daily	0.20	44h ago
+Gorilla Nation	daily	0.04	17h ago
